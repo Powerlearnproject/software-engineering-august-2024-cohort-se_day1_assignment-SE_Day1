@@ -1,1 +1,1 @@
-
+Software engineering is a disciplined approach to designing, developing, testing, and maintaining software applications. It combines principles from computer science, engineering, project management, and domain-specific knowledge to create reliable, efficient, and maintainable software systems. The field of software engineering aims to apply engineering principles to the software development process to achieve systematic, scalable, and repeatable results.
