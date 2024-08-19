@@ -98,9 +98,9 @@ Prompt engineering is the process of designing and optimizing natural language p
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-    -Vague Prompt: "Write a story about a person who goes on a journey."
+    Vague Prompt: "Write a story about a person who goes on a journey."
 
-    -Improved Prompt: "Write a 500-word short story about a 25-year-old female protagonist who embarks on a solo hiking trip in the Rocky Mountains to overcome her fear of heights."
+    Improved Prompt: "Write a 500-word short story about a 25-year-old female protagonist who embarks on a solo hiking trip in the Rocky Mountains to overcome her fear of heights."
 
     Because it gives specifics about the protagonist, setting, and aim, the updated prompt is more useful because it aids the AI model in producing a more pertinent and well-organized novel.
 
