@@ -191,7 +191,6 @@ Proper prompt engineering allows AI engineers to build code and train models on 
 4.Security and Consistency:
 Prompt engineering can identify and mitigate prompt injection attacks, ensuring consistent and accurate services.
 
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt:
