@@ -64,6 +64,7 @@ Sprints: Work is divided into time-based bursts (Sprints) for continuous improve
 Evolving Requirements: Ideal for projects with evolving or dynamic requirements.
 Examples: Developing mobile app,creating a web service.    
 
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer (Software Engineer):
