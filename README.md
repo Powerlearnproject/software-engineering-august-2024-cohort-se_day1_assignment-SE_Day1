@@ -58,7 +58,7 @@ iii)  System testing evaluates the complete and integrated software system to ve
 iv) Acceptance testing, often referred to as User Acceptance Testing (UAT), is the final phase of testing. It involves end-users testing the software to ensure it meets their needs and requirements.This type of testing is critical for confirming that the software is ready for deployment. It validates that the application fulfills business requirements and is acceptable for use in a real-world environment. 
 #Part 2: Introduction to AI and Prompt Engineering
 
-
+ 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the practice of designing and refining input prompts to effectively communicate with AI models, particularly large language models (LLMs). This process involves crafting specific queries or commands that guide the AI in generating relevant and accurate responses. It plays a significant role in enhancing user-AI interactions by establishing context and intent, which allows AI models to produce more precise outputs, crucial for applications like chatbots and virtual assistants. Additionally, well-crafted prompts can help mitigate biases that may arise from the model's training data, leading to more balanced and fair responses. By improving accuracy and relevance, effective prompts enable users to engage AI models in complex tasks such as summarizing documents or generating creative content. The iterative nature of prompt engineering allows users to continuously refine their prompts based on the AI’s responses, creating a feedback loop that enhances interaction efficiency and satisfaction. 
