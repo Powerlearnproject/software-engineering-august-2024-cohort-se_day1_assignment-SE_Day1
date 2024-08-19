@@ -198,7 +198,6 @@ Make cool artwork with stars.
 This prompt lacks specificity and leaves room for interpretation. It doesn’t provide clear guidance on the desired style, medium, or context.
 
 Improved Prompt:
-“Create a sprawling futuristic cityscape at night, bathed in neon blue and green lights, with towering skyscrapers reflecting off the wet asphalt below.”
 Explanation:
 The improved prompt specifies the scene, setting, and desired elements. It guides the AI to generate a vivid and detailed resulting in a more focused output.
 
