@@ -36,9 +36,9 @@ Waterfall Methodology: Suitable for government projects where strict requirement
 Agile Methodology: Ideal for startups operating in dynamic environments where requirements evolve rapidly, allowing for adaptation based on market feedback.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-- Software Developer: Responsible for writing code and implementing software solutions.
-- Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
-- Project Manager: Manages the planning, execution, and delivery of software projects.
+Software Developer: Responsible for writing code and implementing software solutions.
+Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
+Project Manager: Manages the planning, execution, and delivery of software projects.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 -Integrated Development Environments (IDEs):
@@ -65,13 +65,13 @@ Technical Debt: Accumulated from shortcuts or suboptimal solutions, technical de
 Strategies for Overcoming Challenges: Effective communication, agile methodologies, task prioritization, and regular reassessment of project goals and timelines.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-- Unit Testing: Unit testing involves testing individual components of code (like functions, methods, or classes) in isolation from the rest of the system.
+Unit Testing: Unit testing involves testing individual components of code (like functions, methods, or classes) in isolation from the rest of the system.
 Importance: It helps identify bugs at the earliest stage of development by verifying that each part of the code works as intended. It ensures that the basic building blocks of the software are functioning correctly, which reduces the likelihood of defects in more complex integrations later.
-- Integration Testing: Integration testing focuses on testing the interactions between integrated units or modules to ensure they work together as expected.
+Integration Testing: Integration testing focuses on testing the interactions between integrated units or modules to ensure they work together as expected.
 Importance: This type of testing is essential to detect issues that arise when different parts of the software interact, such as data flow errors or incorrect interface implementations. It helps verify that combined components produce the desired outcome.
-- System Testing: System testing evaluates the complete, integrated system as a whole to ensure it meets the specified requirements.
+System Testing: System testing evaluates the complete, integrated system as a whole to ensure it meets the specified requirements.
 Importance: It validates that the entire system works as expected in an environment that simulates real-world conditions. This type of testing covers functional and non-functional aspects, including performance, security, and usability, ensuring that the software meets the overall objectives.
-- Acceptance Testing: Acceptance testing is the final phase of testing, where the software is evaluated against user requirements and business needs. It is typically performed by the end-users or clients.
+Acceptance Testing: Acceptance testing is the final phase of testing, where the software is evaluated against user requirements and business needs. It is typically performed by the end-users or clients.
 Importance: This testing determines whether the software is ready for deployment. It ensures that the software meets the acceptance criteria and satisfies the needs of the stakeholders, confirming that the product is ready for release.
 
 #Part 2: Introduction to AI and Prompt Engineering
