@@ -12,7 +12,6 @@ The importance of software engineering :
 2.Handles Big Projects: Enables efficient management of large-scale projects.
 3.Minimizes Software Costs: By optimizing resources and eliminating unnecessary  elements.
 
-
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 1.Emergence as a Profession:
