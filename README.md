@@ -1,7 +1,7 @@
 # SE_Day1
 Software Engineering Day1 Assignment
 
-# Part 1: Introduction to Software Engineering
+#Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 - software engineering is a systematic approach to the design, development, operation, and maintenance of software. It involves applying engineering principles and practices to software development, with the goal of creating high-quality software products that meet the needs of users and stakeholders.
@@ -48,7 +48,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 - System testing: System testing is a type of testing that focuses on testing the entire software system as a whole to ensure that it meets the specified requirements and quality standards. It helps validate the software against the functional and non-functional requirements, leading to software products that meet the needs of users and stakeholders.
 - Acceptance testing: Acceptance testing is a type of testing that focuses on testing the software from the perspective of end users to ensure that it meets their needs and expectations. It helps validate the software against the user requirements and business goals, leading to software products that are user-friendly and fit for purpose.
 
-# Part 2: Introduction to AI and Prompt Engineering
+#Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of designing and refining prompts to interact with AI models effectively and efficiently. It involves crafting clear, specific, and concise prompts that provide the necessary context and constraints for the AI model to generate the desired output. Prompt engineering is important in interacting with AI models because it helps guide the model's decision-making process, reduce ambiguity and bias in the generated output, and improve the overall performance and usability of the AI system. By designing prompts that are tailored to the specific task and domain of the AI model, users can achieve better results and avoid unintended consequences in their interactions with AI systems.
