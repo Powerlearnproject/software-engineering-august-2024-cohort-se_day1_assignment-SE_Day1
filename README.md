@@ -92,15 +92,15 @@ Project Manager:
     Reporting project status, identifying dependencies, and adjusting project plans based on changing requirements or circumstances.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-   Integrated Development Environments (IDEs):
-   Importance:
+ Integrated Development Environments (IDEs):
+Importance:
 Code Efficiency: IDEs provide a centralized platform for coding, testing, and debugging, allowing developers to write and edit code efficiently.
 Comprehensive Tools: IDEs offer built-in tools such as code editors, compilers, debuggers, and project management features, enhancing developer productivity.
 Integration: IDEs typically integrate with various frameworks, libraries, and plug-ins, enabling developers to work seamlessly with different technologies in a single environment.
 Code Navigation: IDEs facilitate code navigation, code refactoring, and auto-completion, helping developers understand and modify code more effectively.
 Collaboration: IDEs support collaboration features, allowing team members to share code, work on projects simultaneously, and maintain consistency in development practices.
 
-    Version Control Systems (VCS):
+  Version Control Systems (VCS):
     Importance:
 Code Management: VCS tracks changes to files, enabling developers to manage code versions, compare changes, and revert to previous states if needed.
 Collaboration: VCS facilitates collaboration among team members by allowing multiple developers to work on the same codebase concurrently without conflicts.
@@ -133,37 +133,35 @@ Emphasizing Soft Skills: Providing training and resources to enhance communicati
 Implementing Best Practices: Enforcing coding standards, conducting code reviews, and investing in automated testing can help maintain and improve code quality over time.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing: involves testing individual components or units of code in isolation to ensure they function correctly.
-Importance:
-Identifies defects in individual units early in the development process.
-Validates that each unit of code performs as intended based on specifications.
-Facilitates code refactoring, maintenance, and enhancement.
-Helps reduce bugs and errors in the early stages of development.
+  Unit Testing: involves testing individual components or units of code in isolation to ensure they function correctly.
+   Importance:
+   Identifies defects in individual units early in the development process.
+   Validates that each unit of code performs as intended based on specifications.
+   Facilitates code refactoring, maintenance, and enhancement.
+   Helps reduce bugs and errors in the early stages of development.
 
 Integration Testing:  focuses on testing the interactions and interfaces between different modules or units of code to ensure they work together correctly.
-Importance:
-Verifies that integrated components function as expected and communicate effectively.
-Detects interface issues, data mismatches, and integration errors.
-Validates the flow of data between modules and helps uncover system-level defects.
-Ensures that software components operate harmoniously as a cohesive system.
+   Importance:
+   Verifies that integrated components function as expected and communicate effectively.
+   Detects interface issues, data mismatches, and integration errors.
+   Validates the flow of data between modules and helps uncover system-level defects.
+  Ensures that software components operate harmoniously as a cohesive system.
 
 System Testing: evaluates the complete software system as a whole against specified requirements to validate its readiness for deployment.
-Importance:
-Verifies the system's compliance with functional and non-functional requirements.
-Validates end-to-end functionality and performance under various scenarios.
-Uncovers system-level issues such as usability, reliability, and security flaws.
-Confirms that the software meets user expectations and business objectives.
+   Importance:
+    Verifies the system's compliance with functional and non-functional requirements.
+    Validates end-to-end functionality and performance under various scenarios.
+    Uncovers system-level issues such as usability, reliability, and security flaws.
+    Confirms that the software meets user expectations and business objectives.
 
 Acceptance Testing: involves evaluating the software from the end-user's perspective to determine if it meets user requirements and is ready for deployment.
-Importance:
-Validates that the software satisfies user needs and delivers value.
-Confirms that the software operates as intended in the user's environment.
-Ensures that the software meets business objectives and acceptance criteria.
-Validates that the software is ready for release to customers or stakeholders.
+    Importance:
+    Validates that the software satisfies user needs and delivers value.
+    Confirms that the software operates as intended in the user's environment.
+    Ensures that the software meets business objectives and acceptance criteria.
+    Validates that the software is ready for release to customers or stakeholders.
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering refers to the process of designing and formulating input prompts or queries in a way that optimizes the performance and output quality of AI models, particularly in the context of natural language processing (NLP) and machine learning.
 
