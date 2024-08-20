@@ -204,13 +204,9 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 * Vague Prompt: "Tell me about AI."
 * Improved Prompt: "Explain the key applications and benefits of artificial intelligence in the field of healthcare."
 * Why the Improved Prompt is More Effective: 
-1. **Specificity**: The improved prompt is specific about the topic (AI in healthcare), making
-it easier for the AI to generate a relevant and accurate response.
-2. **Clarity**: The prompt clearly states what is being asked (key applications and benefits),
-reducing the likelihood of the AI misunderstanding the question.
-3. **Conciseness**: The improved prompt is concise, directly addressing the main question
-without unnecessary details, making it easier for the AI to focus on the essential information.
-4. **Context**: By specifying the field (healthcare), the prompt provides context that helps the
-AI generate a response that is more relevant and applicable to the user's needs.
+1. **Specificity**: The improved prompt is specific about the topic (AI in healthcare), making it easier for the AI to generate a relevant and accurate response.
+2. **Clarity**: The prompt clearly states what is being asked (key applications and benefits), reducing the likelihood of the AI misunderstanding the question.
+3. **Conciseness**: The improved prompt is concise, directly addressing the main question without unnecessary details, making it easier for the AI to focus on the essential information.
+4. **Context**: By specifying the field (healthcare), the prompt provides context that helps the AI generate a response that is more relevant and applicable to the user's needs.
 
 
