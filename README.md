@@ -59,7 +59,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 4. Acceptance Testing, is conducted by end-users, clients, or testers on behalf of the client, to validate that the software meets their requirements and expectations and it's importance in software  quality assurance is that It ensures that all user stories, use cases, or business requirements have been correctly implemented and that the software performs as expected in real-world scenarios.
 
 
-#Part 2: Introduction to AI and Prompt Engineering
+#Part 2: Introduction to AI and Prompt Engineering 
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
@@ -68,3 +68,4 @@ Prompt Engineering is the process of refining questions and statement to get the
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Improved Prompt is more effective because reduces the need for follow-up questions or clarifications, making the interaction more efficient and effective.
