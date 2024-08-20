@@ -1,0 +1,38 @@
+name: Autograding Tests
+'on':
+- push
+- repository_dispatch
+permissions:
+  checks: write
+  actions: read
+  contents: read
+jobs:
+  run-autograding-tests:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-classroom[bot]'
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - name: Quiz 1
+      id: quiz-1
+      uses: classroom-resources/autograding-io-grader@v1
+      with:
+        test-name: Quiz 1
+        setup-command: ''
+        command: Which of the following best describes software engineering?
+        input: |-
+          a) The study of hardware components
+          b) The process of designing, developing, and maintaining software
+          c) The analysis of networking protocols
+          d) The management of data storage systems
+        expected-output: b) The process of designing, developing, and maintaining
+          software
+        comparison-method: exact
+        timeout: 10
+        max-score: 10
+    - name: Autograding Reporter
+      uses: classroom-resources/autograding-grading-reporter@v1
+      env:
+        QUIZ-1_RESULTS: "${{steps.quiz-1.outputs.result}}"
+      with:
+        runners: quiz-1
