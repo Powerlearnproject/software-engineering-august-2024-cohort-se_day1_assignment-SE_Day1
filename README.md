@@ -12,7 +12,7 @@ Importance of Software Engineering in the Technology Industry Software engineeri
 
 Efficiency and Productivity: It enables the development of complex software systems in a structured and efficient manner, reducing development time and improving productivity.
 
-Quality Assurance: Through rigorous testing and validation processes, software engineering ensures that software products are reliable, secure, and perform well under various conditions.
+Quality Assurance: Through testing and validation processes, software engineering ensures that software products are reliable, secure, and perform well under various conditions.
 
 Scalability: Software engineering practices allow the development of scalable systems that can handle growth in users, data, and functionality over time.
 
