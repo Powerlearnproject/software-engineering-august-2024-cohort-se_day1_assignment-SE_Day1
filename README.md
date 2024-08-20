@@ -68,4 +68,5 @@ Prompt Engineering is the process of refining questions and statement to get the
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Improved Prompt is more effective because reduces the need for follow-up questions or clarifications, making the interaction more efficient and effective.
+An example of a vague prompt is "tell me about computer",Imporoving it can be presented as explain the importance of computer in the working field.This gives more clarity and its specific
+Improved Prompt is more effective because it reduces the need for follow-up questions or clarifications, making the interaction more efficient and effective.
