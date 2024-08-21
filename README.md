@@ -3,7 +3,6 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 software engineering is the design ,building and maintenance of software applications. software engineering is important since it alllows one to create software as well as websites which help to automate and solve problems,
 
@@ -17,7 +16,7 @@ the 3 key milestones have been
 List and briefly explain the phases of the Software Development Life Cycle.The Software Development 
 
 Life Cycle (SDLC) encompasses several phases designed to ensure successful software development. It begins with planning, where the project's scope, goals, resources, and risks are defined. This is followed by requirements analysis, where detailed needs are gathered and documented from stakeholders. In the design phase, a blueprint for the software is created, outlining system architecture, data models, and user interfaces. The implementation phase involves translating these designs into actual code, followed by testing to identify and fix defects to ensure quality. Once the software is ready, it moves to the deployment phase, where it is released to users and installed in the production environment. Finally, the maintenance phase addresses ongoing support, fixes issues, and incorporates updates or enhancements based on user feedback.
-
+List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
