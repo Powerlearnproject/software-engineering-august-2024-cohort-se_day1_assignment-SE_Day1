@@ -102,7 +102,8 @@ Acceptance Testing: Conducted to determine if the software meets business requir
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
-Prompt engineering is the designing of inputs and structuring of instructions which are fed into generative artificial intelligence to guide these machines in delivering optimal outputs. The importance of precise prompting is to guide and ensure the outputs of AI are relevant and accurate.
+Prompt engineering is the designing of inputs and structuring of instructions which are fed into generative artificial intelligence to guide these machines in delivering optimal outputs. 
+The importance of precise prompting is to guide and ensure the outputs of AI are relevant and accurate.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt: Tell me about the project.
