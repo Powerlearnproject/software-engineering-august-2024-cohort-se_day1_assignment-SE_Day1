@@ -53,7 +53,7 @@ Assess system performance, user satisfaction, and identify areas for improvement
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
-Waterfall is a linear, sequential approach to software development, where each phase must be completed before moving on to the next. It's often likened to a waterfall, as the project flows from one phase to the next.   
+Waterfall is a linear sequential approach to software development, where each phase must be completed before moving on to the next. It's often likened to a waterfall, as the project flows from one phase to the next.   
 
 Agile is an iterative and incremental approach, emphasizing flexibility, collaboration, and continuous delivery. It focuses on delivering working software in short cycles, gathering feedback, and adapting to changes throughout the development process.   
 
