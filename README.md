@@ -82,62 +82,62 @@ Mercurial: Another distributed version control system similar to Git but with a 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-1. Dealing with Legacy Code
-Challenges:
-1. Understanding and modifying outdated code can be difficult.
-2. Legacy code often lacks documentation and may use outdated practices.
-Strategies:
-1. Incremental Improvement: Gradually refactor and improve the codebase. Start with small, manageable changes.
-2. Documentation: Create your own documentation as you work through the code. It will be helpful for future developers.
-3. Automated Testing: Implement automated tests to ensure that changes don’t break existing functionality.
+1. Dealing with Legacy Code.
+ Challenges:
+  1. Understanding and modifying outdated code can be difficult.
+  2. Legacy code often lacks documentation and may use outdated practices.
+ Strategies:
+  1. Incremental Improvement: Gradually refactor and improve the codebase. Start with small, manageable changes.
+  2. Documentation: Create your own documentation as you work through the code. It will be helpful for future developers.
+  3. Automated Testing: Implement automated tests to ensure that changes don’t break existing functionality.
 
-2. Managing Technical Debt
-Challenges:
-1. Accumulating technical debt can lead to maintenance issues and hinder future development.
-2. Balancing speed with quality often leads to shortcuts that contribute to technical debt.
-Strategies:
-1. Prioritize Debt: Regularly assess and prioritize technical debt based on its impact on the project.
-2. Code Reviews: Conduct thorough code reviews to catch issues early and enforce best practices.
-3. Allocate Time: Dedicate specific time for addressing technical debt in your development cycle.
+2. Managing Technical Debt.
+  Challenges:
+  1. Accumulating technical debt can lead to maintenance issues and hinder future development.
+  2. Balancing speed with quality often leads to shortcuts that contribute to technical debt.
+  Strategies:
+  1. Prioritize Debt: Regularly assess and prioritize technical debt based on its impact on the project.
+  2. Code Reviews: Conduct thorough code reviews to catch issues early and enforce best practices.
+  3. Allocate Time: Dedicate specific time for addressing technical debt in your development cycle.
 
-3. Keeping Up with Rapid Technological Change
-Challenges:
-1. New technologies, frameworks, and tools emerge quickly, making it difficult to stay current.
-2. Deciding which technologies to learn or adopt can be overwhelming.
-Strategies:
-1. Continuous Learning: Engage in regular learning through online courses, blogs, and industry news.
-2. Specialization: Focus on a few key areas of technology that are relevant to your career goals.
-3. Community Involvement: Participate in developer communities and forums to stay informed and get recommendations from peers.
+3. Keeping Up with Rapid Technological Change.
+  Challenges:
+  1. New technologies, frameworks, and tools emerge quickly, making it difficult to stay current.
+  2. Deciding which technologies to learn or adopt can be overwhelming.
+  Strategies:
+  1. Continuous Learning: Engage in regular learning through online courses, blogs, and industry news.
+  2. Specialization: Focus on a few key areas of technology that are relevant to your career goals.
+  3. Community Involvement: Participate in developer communities and forums to stay informed and get recommendations from peers.
   
-4. Managing Work-Life Balance
-Challenges:
-1. Long hours and high stress can lead to burnout and negatively affect personal life.
-Strategies:
-1. Set Boundaries: Clearly define work hours and stick to them.
-2. Time Management: Use techniques like time blocking to manage work tasks efficiently.
-3. Self-Care: Prioritize activities that help you relax and recharge, such as exercise and hobbies.
+4. Managing Work-Life Balance.  
+  Challenges:
+  1. Long hours and high stress can lead to burnout and negatively affect personal life.
+  Strategies:
+  1. Set Boundaries: Clearly define work hours and stick to them.
+  2. Time Management: Use techniques like time blocking to manage work tasks efficiently.
+  3. Self-Care: Prioritize activities that help you relax and recharge, such as exercise and hobbies.
 
-5. Communicating Effectively with Non-Technical Stakeholders
-Challenges:
-1. Bridging the gap between technical and non-technical team members can be difficult.
-2. Miscommunication can lead to misunderstandings and project delays.
-Strategies:
-1. Simplify Language: Avoid jargon and explain technical concepts in layman’s terms.
-2. Regular Updates: Keep stakeholders informed with regular updates and demonstrations of progress.
-3. Active Listening: Ensure you understand the requirements and concerns of stakeholders by actively listening and asking clarifying questions.
+5. Communicating Effectively with Non-Technical Stakeholders.
+  Challenges:
+  1. Bridging the gap between technical and non-technical team members can be difficult.
+  2. Miscommunication can lead to misunderstandings and project delays.
+  Strategies:
+  1. Simplify Language: Avoid jargon and explain technical concepts in layman’s terms.
+  2. Regular Updates: Keep stakeholders informed with regular updates and demonstrations of progress.
+  3. Active Listening: Ensure you understand the requirements and concerns of stakeholders by actively listening and asking clarifying questions.
 
-6. Ensuring Software Quality
-Challenges:
-1. Ensuring that software meets high-quality standards while adhering to deadlines can be challenging.
-2. Bugs and issues may only be discovered after deployment.
-Strategies:
-1. Automated Testing: Implement unit tests, integration tests, and end-to-end tests to catch issues early.
-2. Continuous Integration/Continuous Deployment (CI/CD): Use CI/CD pipelines to automate testing and deployment processes.
-3. Code Reviews: Regularly review code with peers to identify potential issues and ensure adherence to best practices.
+6. Ensuring Software Quality.
+  Challenges:
+  1. Ensuring that software meets high-quality standards while adhering to deadlines can be challenging.
+  2. Bugs and issues may only be discovered after deployment.
+  Strategies:
+  1. Automated Testing: Implement unit tests, integration tests, and end-to-end tests to catch issues early.
+  2. Continuous Integration/Continuous Deployment (CI/CD): Use CI/CD pipelines to automate testing and deployment processes.
+  3. Code Reviews: Regularly review code with peers to identify potential issues and ensure adherence to best practices.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-1. Unit Testing
+1. Unit Testing.
 Definition:
 Unit Testing involves testing individual components or functions of a software application in isolation. The goal is to verify that each unit of the code performs as expected.
 Importance:
@@ -146,7 +146,7 @@ Importance:
 3. Facilitates Refactoring: Ensures that code changes or refactoring don’t break existing functionality.
 Example: Testing a function that calculates the total price of items in a shopping cart to ensure it handles various scenarios correctly.
 
-2. Integration Testing
+2. Integration Testing.
 Definition:
 Integration Testing focuses on verifying the interactions between different components or systems. It checks if combined units work together as expected.
 Importance:
@@ -155,7 +155,7 @@ Importance:
 3. Validates Dependencies: Ensures that integrated components interact correctly, especially when dependent on external systems or services.
 Example: Testing a checkout process where the shopping cart component integrates with a payment gateway to ensure transactions are processed correctly.
 
-3. System Testing
+3. System Testing.
 Definition:
 System Testing involves testing the entire application as a whole to ensure it meets the specified requirements. It assesses the complete and integrated software system.
 Importance:
@@ -164,7 +164,7 @@ Importance:
 3. User Perspective: Validates the system from the user’s perspective to ensure it operates as expected in real-world conditions.
 Example: Testing an e-commerce application by simulating end-to-end user scenarios like browsing products, adding items to the cart, and completing a purchase.
 
-4. Acceptance Testing
+4. Acceptance Testing.
 Definition:
 Acceptance Testing is performed to determine if the software meets the business requirements and is ready for delivery to the end-users. It is often carried out by the client or end-users.
 Importance:
