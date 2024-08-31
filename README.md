@@ -130,12 +130,14 @@ Example:
 
 **
 **Define prompt engineering and discuss its importance in interacting with AI models.****
-"Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models
+
+Answer = Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models
 
 Prompt engineering helps avoid getting confusing answers to vague questions by making your questions clear and specific, so the AI understands exactly what you need.
 
 **Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.**
-Who are chinese?
+
+Answer = Who are chinese?
 improved
 Can you give me brief history about chinese?
 
