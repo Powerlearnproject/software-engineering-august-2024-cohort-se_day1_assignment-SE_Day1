@@ -24,7 +24,7 @@ some importances are:
 .Development: Writing the code based on the design specifications.
 .Testing: Verifying and validating the software to ensure it meets requirements.
 .Deployment: Releasing the software to the target environment.
-.Maintenance: Providing support, updates, and bug fixes.
+.Maintenance: Providing support, updates, and bug fixes. 
 
 
 4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
