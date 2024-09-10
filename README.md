@@ -42,6 +42,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 prompt engineering involves crafting questions or instructions in a way that helps get the best responses from your robot or AI assistance.its like being a chef for your robot ensuring it has perfect ingridient to serve you exactly what you need
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
 Vague Prompt: "Tell me about software."
 Improved Prompt: "Explain the key differences between software development methodologies such as Agile and Waterfall."
 The improved prompt is more effective because it specifies the topic, defines the scope, and names the methodologies to be compared . This clarity ensures that the response will be focused and relevant to the user's needs, rather than being too broad or general.
