@@ -13,6 +13,11 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
+
+    # Add the step to install the which command
+    - name: Install dependencies
+      run: sudo apt-get update && sudo apt-get install -y which
+
     - name: Quiz 1
       id: quiz-1
       uses: classroom-resources/autograding-io-grader@v1
@@ -30,9 +35,20 @@ jobs:
         comparison-method: exact
         timeout: 10
         max-score: 10
+
     - name: Autograding Reporter
       uses: classroom-resources/autograding-grading-reporter@v1
       env:
         QUIZ-1_RESULTS: "${{steps.quiz-1.outputs.result}}"
       with:
         runners: quiz-1
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y which
+      - name: Run tests
+        run: npm test
