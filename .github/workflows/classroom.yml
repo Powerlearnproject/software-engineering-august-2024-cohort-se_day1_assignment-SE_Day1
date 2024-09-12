@@ -12,9 +12,9 @@ jobs:
     if: github.actor != 'github-classroom[bot]'
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4  # Updated to v4 to use Node.js 16
 
-    # Add the step to install the which command
+    # Add the step to update package list and install the which command
     - name: Install dependencies
       run: sudo apt-get update && sudo apt-get install -y which
 
@@ -47,7 +47,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4  # Updated to v4 to use Node.js 16
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y which
       - name: Run tests
