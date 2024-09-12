@@ -14,8 +14,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4  # Updated to v4 to use Node.js 16
 
-    - name: Check for command existence
-      run: command -v <command> || echo "<command> not found"
+    # Add the step to update package list and install the which command
+    - name: Install dependencies
+      run: sudo apt-get update && sudo apt-get install -y which
 
     - name: Quiz 1
       id: quiz-1
@@ -48,6 +49,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4  # Updated to v4 to use Node.js 16
       - name: Install dependencies
-        run: sudo apt-get update && sudo apt-get install -y <necessary-packages>
+        run: sudo apt-get update && sudo apt-get install -y which
       - name: Run tests
         run: npm test
