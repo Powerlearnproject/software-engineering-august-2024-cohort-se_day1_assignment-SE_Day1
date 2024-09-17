@@ -12,9 +12,9 @@ in the technology industry it has help in the improvement of maintaining of high
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-- Devoloping of programming languages(e.g fortran)(1960's).
-- Software engineering as a discipline (1970's).
-- Advent structure programming(1970,s).
+Devoloping of programming languages(e.g fortran)(1960's).
+Software engineering as a discipline (1970's).
+Advent structure programming(1970,s).
 
 
 
