@@ -5,27 +5,27 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the application of engineering principles, methods, tools for the maintaining of high quality software.
-in the technology industry it has help in the improvement of maintaining of high quality software that has helped in our moderm life in the aspect of commerce,communication,even transportation.
+Software engineering is the systematic application of engineering principles, methods, tools for the developing and the maintaining of high quality software sysytems. it involves software product design, developing, deployment, testing and maintaining.
+in the technology industry it helps by enabling the cration of software products and systems that powers our modern life in the aspect of communications, commerce, healthcare, entertainment.
 
 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-Devoloping of programming languages(e.g fortran)(1960's).
-Software engineering as a discipline (1970's).
-Advent structure programming(1970,s).
+a)Developing of programming languages(e.g fortran)(1960's).
+b)Software engineering as a discipline (1970's).
+c)Advent structure programming(1970,s).
 
 
 
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-REQUIREMENTS: the requirements of the user and the systems needs.
-IMPLEMENTATION: the designing, creating, coding of the software.
-TESTING: the testing of the software if it meets required standard.
-DEPLOYMENT: the release of the software for use.
-MAINTAINING: updating, for changes.
+a)REQUIREMENTS: the requirements of the user and the systems needs.
+b)IMPLEMENTATION: the designing, creating, coding of the software.
+c)TESTING: the testing of the software if it meets required standard.
+d)DEPLOYMENT: the release of the software for use.
+e)MAINTAINING: updating, for changes.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -50,14 +50,14 @@ VSC: this are for the tracking of any changes that was made to the source code.(
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 CHALLENGES;
-change in user requirements.
-limited time for the development of a software.
-low quality software brings about more expenses on maintainace in the future.
+a)change in user requirements.
+b)limited time for the development of a software.
+c)low quality software brings about more expenses on maintainace in the future.
 
 Strategies To Overcome Challenges;
-effective communication.
-priority for tasks.
-reassessing and iteration of tasks and projects.
+a)effective communication.
+b)priority for tasks.
+c)reassessing and iteration of tasks and projects.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -75,10 +75,10 @@ ACCEPTANCE: this testing involves the testing of the interface.
 Define prompt engineering and discuss its importance in interacting with AI models.
 this is an engineering that deals the set of instructions, commands, questions, given to an AI models for an accurate, best, perfect response.
 IMPORTANCE;
-To get accurate and best response.
-seperation of instruction.
-specific response.
-breif structural response.
+a)To get accurate and best response.
+b)seperation of instruction.
+c)specific response.
+d)breif structural response.
 
 
 
