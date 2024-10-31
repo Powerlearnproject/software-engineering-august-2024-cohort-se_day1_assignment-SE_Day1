@@ -1,3 +1,6 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15602165&assignment_repo_type=AssignmentRepo)
+# SE_Day1
+
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -177,3 +180,6 @@ Prompt: "Write a poem about a robot who dreams of becoming a gardener."
 Improved prompt: "Write a haiku about a rusty robot yearning to tend a lush garden."
 The second prompt is more specific and provides a clear direction, likely leading to a more focused and creative poem.
 In essence, prompt engineering is a skill that enables users to harness the full potential of AI models and achieve their desired outcomes.
+
+
+
