@@ -63,3 +63,10 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 vague prompt : draw a rectangle
 improved prompt : draw a rectangle with a width of 5 units and a height of 10 units
 The improved prompt is more effective because it provides clear and specific requirements for the AI model to follow.
+
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+vague prompt : draw a rectangle
+improved prompt : draw a rectangle with a width of 5 units and a height of 10 units
+The improved prompt is more effective because it provides clear and specific requirements for the AI model to follow.
